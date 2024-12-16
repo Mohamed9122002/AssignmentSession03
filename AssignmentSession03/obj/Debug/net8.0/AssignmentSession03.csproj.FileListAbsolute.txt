@@ -1,0 +1,14 @@
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\bin\Debug\net8.0\AssignmentSession03.exe
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\bin\Debug\net8.0\AssignmentSession03.deps.json
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\bin\Debug\net8.0\AssignmentSession03.runtimeconfig.json
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\bin\Debug\net8.0\AssignmentSession03.dll
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\bin\Debug\net8.0\AssignmentSession03.pdb
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.AssemblyInfoInputs.cache
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.AssemblyInfo.cs
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.csproj.CoreCompileInputs.cache
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.dll
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\refint\AssignmentSession03.dll
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.pdb
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\AssignmentSession03.genruntimeconfig.cache
+D:\BackEnd\AssignmentCycle43.NET\C#Basic\AssignmentSession03Solution\AssignmentSession03\obj\Debug\net8.0\ref\AssignmentSession03.dll
